@@ -32,7 +32,7 @@ export default defineNuxtConfig({
             autoprefixer: {},
         },
     },
-    modules: ['@pinia/nuxt', '@nuxtjs/i18n'],
+    modules: ['@pinia/nuxt', '@nuxtjs/i18n', '@nuxt/devtools'],
 
     i18n: {
         locales: [
