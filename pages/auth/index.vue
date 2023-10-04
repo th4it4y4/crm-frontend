@@ -65,7 +65,7 @@
                         </div>
                         <form class="space-y-5 dark:text-white" @submit.prevent="router.push('/')">
                             <div>
-                                <label for="Email">Email</label>
+                                <label for="Email">Emaile</label>
                                 <div class="relative text-white-dark">
                                     <input id="Email" type="email" placeholder="Enter Email" class="form-input ps-10 placeholder:text-white-dark" />
                                     <span class="absolute start-4 top-1/2 -translate-y-1/2">
